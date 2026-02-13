@@ -1,2 +1,2 @@
-# KofC-Minutes
+# Knights of Columbus - Minutes
 A purpose-built app to record minutes of my Assembly's meetings.
